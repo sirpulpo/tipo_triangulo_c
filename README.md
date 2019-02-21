@@ -1,0 +1,1 @@
+# tipo_triangulo_c
